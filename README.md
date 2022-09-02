@@ -1,7 +1,35 @@
 ![CV timeline from 2012 to now. It started out with my studies at Chalmers followed by my biomedical engineering experiences in industry. Then my path led to teaching at gymnasium and currently at IT-högskolan.](assets/cv_timeline.png)
 
 # Dorota Bjöörn, PhD:
-Short description of me to be added
+
+MY GOALS
+
+I want to pursue my career in a dynamic company with a strong innovative culture and clear team sprit, where I can make a difference. Long term I see myself in a leading position, where I can use my management experience and skills of motivating and communication.
+
+
+PERSONAL PROFILE
+* Goal and solution oriented. A doer.
+
+* Experienced communicator at many levels and in many settings.
+* Logical. Good at structuring and leading work in a group.
+* Team player creating good relations with people. Like to collaborate with others.
+* Positive, flexible, easy going and confident.
+* Engaged and engaging.
+* Makes sure to get challenged and develop.
+* 2 children, 1 husband, 1 house. Love rock climbing, snowboarding, mountain biking, sawing and cooking.
+
+PROFFESIONAL EXPERIENCE
+* Short CV focused on project management, agile and development to be added. Poissibly a list of publications.
+
+EDUCATION
+* List to be added here
+
+SKILLS AND OTHER THINGS I AM PROUD OF
+* List to be added here
+
+
+
+Keep as inpiration - remove later
 
 I am a passionate engineer and teacher who strive to inspire students in pursuing the beauty of programming and mathematics. To do this successfully, I am always sharpening my technological and pedagogical skillsets. My pedagogical strategy is based on a combination of **structure** from special pedagogy and clear **visualization** from engineering. The main idea behind this, is that clear structure and visualization are a neccessity for some, but beneficial for all.
 
