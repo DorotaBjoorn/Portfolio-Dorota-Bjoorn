@@ -46,14 +46,14 @@ I also work with portfolio inspired pedagogics, where the students continuosly w
 | [Deep learning][dl]            | deep learning course               |
 | [Machine learning][ml]         | traditional machine learning       |
 | [Data analysis][data_analysis] | course focusing on Pandas          |
-| [Python programming][pytprog]  | introduction course                |
+| [Python programming][pytprog]  | introduction course - lab          |
 | [Linear algebra][lin_alg]      | introductory linear algebra course |
 
 <!-- | [Programmering 1][prog1]           | first programming course (gymnasiet)   | -->
 
 [dl]: https://github.com/kokchun/Deep-learning-AI21
 [ml]: https://github.com/kokchun/Maskininlarning-AI21
-[pytprog]: https://github.com/DorotaBjoorn/Python-Dorota-Bjoorn
+[pytprog]: https://github.com/DorotaBjoorn/Python-Dorota-Bjoorn/tree/main/Labs/Lab3
 [data_analysis]: https://github.com/kokchun/Databehandling
 [prog1]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01
 [lin_alg]: https://github.com/kokchun/Linjar-algebra-21
