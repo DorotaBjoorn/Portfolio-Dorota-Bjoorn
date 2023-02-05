@@ -53,7 +53,7 @@ I also work with portfolio inspired pedagogics, where the students continuosly w
 
 [dl]: https://github.com/kokchun/Deep-learning-AI21
 [ml]: https://github.com/kokchun/Maskininlarning-AI21
-[pytprog]: https://github.com/DorotaBjoorn/Python-Dorota-Bjoornn
+[pytprog]: https://github.com/DorotaBjoorn/Python-Dorota-Bjoorn
 [data_analysis]: https://github.com/kokchun/Databehandling
 [prog1]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01
 [lin_alg]: https://github.com/kokchun/Linjar-algebra-21
