@@ -1,31 +1,23 @@
-![CV timeline from 2012 to now. It started out with my studies at Chalmers followed by my biomedical engineering experiences in industry. Then my path led to teaching at gymnasium and currently at IT-högskolan.](assets/one-pager_time-line.jpg)
+![CV timeline from 1997 to now. It started with my MSc studies in Uppsala, followed by PhD at Chalmers and employmet at Biolin Scientific, Sandvik and Wellspect. Now I am a student at IT-högskolan ](assets/one-pager_time-line.jpg)
 
 # Dorota Bjöörn, PhD:
 
-MY GOALS
+I want to pursue my career in a dynamic company with a strong innovative culture and clear team sprit, where I can make a difference.
+<br/><br/>
 
-I want to pursue my career in a dynamic company with a strong innovative culture and clear team sprit, where I can make a difference. Long term I see myself in a leading position, where I can use my management experience and skills of motivating and communication.
-
-
-PERSONAL PROFILE
-* Goal and solution oriented. A doer.
-
-* Experienced communicator at many levels and in many settings.
-* Logical. Good at structuring and leading work in a group.
-* Team player creating good relations with people. Like to collaborate with others.
-* Positive, flexible, easy going and confident.
-* Engaged and engaging.
-* Makes sure to get challenged and develop.
-* 2 children, 1 husband, 1 house. Love rock climbing, snowboarding, mountain biking, sawing and cooking.
-
-PROFFESIONAL EXPERIENCE
-* Short CV focused on project management, agile and development to be added. Poissibly a list of publications.
-
-EDUCATION
-* List to be added here
+ABOUT ME
+* positive, flexible, easy going and confident
+* self-driven, result- and solution oriented
+* engaged and engaging
+* good at structuring and leading work in a group
+* team player, good at motivating and communication
+* always interested in learning new things
+* Have 2 children, 1 husband, 1 house. Love rock climbing, snowboarding, mountain biking, sawing and cooking. 
+<br/><br/>
 
 SKILLS AND OTHER THINGS I AM PROUD OF
-* List to be added here
+* fluent in English, Swedish, Polish
+* 
 
 
 
@@ -97,4 +89,4 @@ This is a selection of video materials that I have produced/participated in (not
 
 - [![linkedIn icon](assets/linkedIn-icon.png): LinkedIn][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/kokchungiang/
+[linkedin]: https://www.linkedin.com/in/dorota-bj%C3%B6%C3%B6rn-95454a50/
