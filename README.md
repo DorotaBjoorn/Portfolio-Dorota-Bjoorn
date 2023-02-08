@@ -1,4 +1,4 @@
-![CV timeline from 1997 to now. It started with my MSc studies in Uppsala, followed by PhD at Chalmers and employmet at Biolin Scientific, Sandvik and Wellspect. Now I am a student at IT-högskolan ](assets/one-pager_time-line.jpg)
+![CV timeline from 1997 to now. It started with my MSc studies in Uppsala, followed by PhD at Chalmers and employmet at Biolin Scientific, Sandvik and Wellspect. Now I am a student at IT-högskolan ](assets/cv_timeline.jpg)
 
 # Dorota Bjöörn MSc, PhD:
 
