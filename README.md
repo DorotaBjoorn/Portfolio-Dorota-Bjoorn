@@ -8,10 +8,10 @@ I am an expereinced Project Manager mainly from product development within medic
 <br/><br/>
 
 ### For more about my education and work expereince see
-- [LinkedIn][LinkedIn]
+- [LinkedIn][linkedin]
 - CV - link to be added
 
-[LinkedIn]: https://www.linkedin.com/in/dorota-bj%C3%B6%C3%B6rn-95454a50/
+[linkedin]: https://www.linkedin.com/in/dorota-bj%C3%B6%C3%B6rn-95454a50/
 
 <br/><br/>
 
@@ -26,51 +26,19 @@ I am an expereinced Project Manager mainly from product development within medic
 | [Data analysis - lab][da_lab] | data analysis in Pandas, visualisation with Seaborn and Plotly Express  | my own work
 | [Data analysis - project][da_dash]| data analysis in Pandas, results in dashboard | group effort, my contribiution all data analysis and call-backs code
 | [Statistics - lab][stats]      |statistical analysis of Iris dataset mainly with Scipy and Statmodels | my own work          |
-| [Python programming][python]  | introductory linear algebra course |
-|                                |                                    |
+| [Python - labs][python-labs]  | first ML algorithm and first OOP program | my own work|
+|                                |
 
 [dl]: https:
 [ml]: https:
 [da_lab]: https://github.com/DorotaBjoorn/Databehandling-Dorota-Bjoorn/tree/main/Lab
 [da_dash]: https
 [stats]: https://github.com/DorotaBjoorn/Statistics-Dorota-Bjoorn/tree/main/Project
-[python]: https://github.com/DorotaBjoorn/Python-Dorota-Bjoorn/tree/main/Labs/Lab3
+[python-labs]: https://github.com/DorotaBjoorn/Python-Dorota-Bjoorn/tree/main/Labs
 
 <br/>
 
 ---
-
-## Deployed applications :desktop_computer:
-
-This is a selection of deployed applications, that I've included in my teaching.
-
-| Application                    | Description                                   |
-| ------------------------------ | --------------------------------------------- |
-| [Stocky dashboard][stock_dash] | a simple dashboard app deployed in Heroku[^1] |
-
-[^1]: Due to free dyno in Heroku, it takes some time for loading the page the first time because it needs to be started, but after it has started up, the app is fast.
-
-[stock_dash]: https://stocky-dashboard.herokuapp.com/
-
----
-
-## Videos :movie_camera:
-
-This is a selection of video materials that I have produced/participated in (not a full list).
-
-| Video                                 | Description                                  |
-| ------------------------------------- | -------------------------------------------- |
-| [Arbetsförmedlingen][arb_formedling]  | interview of AI program & future work market |
-| [Kanban][kanban_react]                | a simple Kanban board using React (Swedish)  |
-| [Faktorer och nollställen][ma3c_fakt] | video lecture on calculus (Swedish)          |
-| [Video CV 2019][cv_prezi]             | CV created in [Prezi][prezi] (Swedish)       |
-
-[arb_formedling]: https://arbetsformedlingen.se/play/webb-tv-och-press/webb-tv/tema-framtidens-arbetsmarknad---redan-verklighet
-[kanban_react]: https://drive.google.com/file/d/1-45bAeX-TuQXE0SVtcIDO_85qHSqGEmW/view?usp=sharing
-[ma3c_fakt]: https://www.youtube.com/watch?v=wVneS4Akh9I
-[cv_prezi]: https://www.youtube.com/watch?v=Xipc6YAtjTc&t=1s
-[prezi]: https://prezi.com/
-
 ---
 
 ## Contact me :iphone:
