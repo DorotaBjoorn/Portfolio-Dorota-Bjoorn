@@ -40,9 +40,10 @@ I am an expereinced Project Manager mainly from product development within medic
 
 ---
 ---
+<br/>
 
 ## Contact me :iphone:
 
- ![linkedIn icon](assets/linkedin_icon.png)[LinkedIn]
+[LinkedIn]
 
 [LinkedIn]: https://www.linkedin.com/in/dorota-bj%C3%B6%C3%B6rn-95454a50/
