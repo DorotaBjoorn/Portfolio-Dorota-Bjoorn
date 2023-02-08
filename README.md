@@ -11,7 +11,7 @@ I am an experienced Project Manager mainly from product development within medic
 - [LinkedIn][linkedin]
 - CV - link to be added
 
-[linkedin]: https://www.linkedin.com/in/dorota-bj%C3%B6%C3%B6rn-95454a50/
+[linkedin]: https://www.linkedin.com/in/dorota-bjoorn/
 
 <br/><br/>
 
@@ -46,4 +46,4 @@ I am an experienced Project Manager mainly from product development within medic
 
 [LinkedIn]
 
-[LinkedIn]: https://www.linkedin.com/in/dorota-bj%C3%B6%C3%B6rn-95454a50/
+[LinkedIn]: https://www.linkedin.com/in/dorota-bjoorn/
