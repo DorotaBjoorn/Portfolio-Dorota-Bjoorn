@@ -19,20 +19,20 @@ I am an experienced Project Manager mainly from product development within medic
 
 ## GitHub portfolio :briefcase:
 
-| Repo                           | Description                        | Note    |
-| ------------------------------ | ---------------------------------- |---------------------|
-| [Deep learning][dl]            | deep learning course               | repo to be created April 2023
-| [Machine learning][ml]         | traditional machine learning       | repo to be created February 2023
-| [Data analysis - lab][da_lab] | data analysis in Pandas, visualization with Seaborn and Plotly Express  | my own work
-| [Data analysis - project][da_dash]| data analysis in Pandas, results in dashboard | group effort, my contribution all data analysis and call-backs code
-| [Statistics - lab][stats]      |statistical analysis of Iris dataset mainly with Scipy and Statmodels | my own work          |
-| [Python - labs][python-labs]  | first ML algorithm and first OOP program | my own work|
-|                                |
+| Repo                              | Description                                      | Note    |
+| ------------------------------    | ----------------------------------               |---------------------|
+| [Deep machine learning][dl]       | deep learning course                             | repo to be created April 2023|
+| [Machine learning][ml]            | traditional machine learning                     | repo to be created February 2023|
+| [Data analysis - lab][da_lab]     | data analysis (Pandas, Seaborn, Plotly Express)  | my own work
+| [Data analysis - project][da_dash]| data analysis, results in dashboard | group effort, my contribution all data analysis and call-backs code
+| [Statistics - lab][stats]         |statistical analysis and report (Scipy, Statmodels) | my own work          |
+| [Python - labs][python-labs]      |ML algorithm, OOP (NumPy, Matplotlib) | my own work|
+|                                   |                                                   |
 
 [dl]: https:
 [ml]: https:
 [da_lab]: https://github.com/DorotaBjoorn/Databehandling-Dorota-Bjoorn/tree/main/Lab
-[da_dash]: https
+[da_dash]: https://github.com/DorotaBjoorn/Databehadling-projekt
 [stats]: https://github.com/DorotaBjoorn/Statistics-Dorota-Bjoorn/tree/main/Project
 [python-labs]: https://github.com/DorotaBjoorn/Python-Dorota-Bjoorn/tree/main/Labs
 
