@@ -9,9 +9,10 @@ I am an experienced Project Manager mainly from product development within medic
 
 #### For more about my education and work experience see:
 - [LinkedIn][linkedin]
-- CV - link to be added
+- [CV][CV]
 
 [linkedin]: https://www.linkedin.com/in/dorota-bjoorn/
+[CV]: assets/CV_one_pager.pdf
 
 <br/><br/>
 
