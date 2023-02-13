@@ -24,7 +24,7 @@ I am an experienced Project Manager mainly from product development within medic
 | ------------------------------    | ----------------------------------               |---------------------|
 | [Deep machine learning][dl]       | deep machine learning course                     | repo to be created April 2023|
 | [Machine learning][ml]            | traditional machine learning                     | ongoing course repo|
-| [Data analysis - lab][da_lab]     | data analysis (Pandas, Seaborn, Plotly Express)  | my own work
+| [Data analysis - lab][da_lab]     | data analysis (Pandas, Seaborn, Plotly)  | my own work
 | [Data analysis - project][da_dash]| data analysis, results in dashboard | group effort, my contribution all data analysis and call-backs code
 | [Statistics - lab][stats]         |statistical analysis and report (Scipy, Statmodels) | my own work          |
 | [Python - labs][python-labs]      |ML algorithm, OOP (NumPy, Matplotlib) | my own work|
