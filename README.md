@@ -22,7 +22,8 @@ I am an experienced project manager with a background primarly in product develo
 
 | Repo                              | Description                                      | Note    |
 | ------------------------------    | ----------------------------------               |---------------------|
-| [Deep machine learning][dl]       | deep machine learning course                     | repo to be created April 2023|
+| [Data Engineering][de]            |data egnineering                                  | repo to be created May 2023|
+| [Databases][db]                   | SQL                                              | repo to be created April 2023|
 | [Machine learning][ml]            | traditional machine learning                     | ongoing course repo|
 | [Data analysis - lab][da_lab]     | data analysis (Pandas, Seaborn, Plotly)  | my own work
 | [Data analysis - project][da_dash]| data analysis, results in dashboard | group effort, my contribution all data analysis and call-backs code
@@ -30,8 +31,8 @@ I am an experienced project manager with a background primarly in product develo
 | [Python - labs][python-labs]      |ML algorithm, OOP (NumPy, Matplotlib) | my own work|
 |                                   |                                                   |
 
+[de]: https:
 [db]: https:
-[dl]: https:
 [ml]: https://github.com/DorotaBjoorn/Machine-Learning-Dorota-Bjoorn
 [da_lab]: https://github.com/DorotaBjoorn/Databehandling-Dorota-Bjoorn/tree/main/Lab
 [da_dash]: https://github.com/DorotaBjoorn/Databehadling-projekt
