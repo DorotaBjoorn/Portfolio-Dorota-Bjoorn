@@ -22,18 +22,20 @@ I am an experienced project manager with a background primarly in product develo
 
 | Repo                              | Description                                      | Note    |
 | ------------------------------    | ----------------------------------               |---------------------|
-| [Data Engineering][de]            |data egnineering                                  | repo to be created May 2023|
-| [Databases][db]                   | SQL                                              | repo to be created April 2023|
-| [Machine learning][ml]            | traditional machine learning                     | ongoing course repo|
+| [Deep machine learning][dml]      |deep machine learning                             | repo to be created November 2023
+| [Data engineering][de]            |data egnineering                                  | repo to be created May 2023|
+| [Databases][db]                   | SQL                                              | repo for ongoing course|
+| [Machine learning - lab][ml]      |machine learning models explored (scikit-learn)                    | my own work|
 | [Data analysis - lab][da_lab]     | data analysis (Pandas, Seaborn, Plotly)  | my own work
 | [Data analysis - project][da_dash]| data analysis, results in dashboard | group effort, my contribution all data analysis and call-backs code
 | [Statistics - lab][stats]         |statistical analysis and report (Scipy, Statmodels) | my own work          |
 | [Python - labs][python-labs]      |ML algorithm, OOP (NumPy, Matplotlib) | my own work|
 |                                   |                                                   |
 
+[dml]: https:
 [de]: https:
-[db]: https:
-[ml]: https://github.com/DorotaBjoorn/Machine-Learning-Dorota-Bjoorn
+[db]: https://github.com/DorotaBjoorn/Databases-Dorota-Bjoorn
+[ml]: https://github.com/DorotaBjoorn/Machine-Learning-Dorota-Bjoorn/tree/main/lab
 [da_lab]: https://github.com/DorotaBjoorn/Databehandling-Dorota-Bjoorn/tree/main/Lab
 [da_dash]: https://github.com/DorotaBjoorn/Databehadling-projekt
 [stats]: https://github.com/DorotaBjoorn/Statistics-Dorota-Bjoorn/tree/main/Project
