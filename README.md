@@ -23,7 +23,7 @@ I am an experienced project manager with a background primarly in product develo
 | Repo                              | Description                                      | Note    |
 | ------------------------------    | ----------------------------------               |---------------------|
 | [Deep machine learning][dml]      |deep machine learning                             | repo to be created November 2023
-| [Data engineering][de]            |data egnineering                                  | repo to be created August 2023|
+| [Data engineering][de]            |data egnineering                                  | repo to be created September 2023|
 | [Databases - labs][db]                   | SQL queries, build database                      | my own work|
 | [Machine learning - lab][ml]      |machine learning models explored (Scikit-learn)   | my own work|
 | [Data analysis - lab][da_lab]     | data analysis (Pandas, Seaborn, Plotly)  | my own work
