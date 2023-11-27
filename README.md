@@ -24,9 +24,9 @@ Recently I spent a few weeks as an intern in industry. My assignment was on appl
 
 | Repo                              | Description                                      | Note    |
 | ------------------------------    | ----------------------------------               |---------------------|
-| [Deep machine learning][dml]      |deep machine learning                             | repo to be created November 2023
+| [Deep machine learning][dml]      |deep machine learning                             | repo to be created December 2023
 | [Paliscope - proj2][LIA2]      |active learning of ML models on blog posts                          | short explorative task during internship
-| [Paliscope - proj1][LIA1]      |text clustering and labeling (NLP, BERT, sentence embeddings, UMAP, HDBSCAN, top words extraction, visualization)                           | short explorative task during internship
+| [Paliscope - proj1][LIA1]      |unsupervised text clustering and labeling (NLP, BERT, UMAP, HDBSCAN, TF-IDF)                           | short explorative task during internship
 | [Data engineering - proj][de]            |data egnineering                                  | group effort, my contribution cicd, docker, airflow, backend in collaboration|
 | [Databases - labs][db]                   | SQL queries, build database                      | my own work|
 | [Machine learning - lab][ml]      |machine learning models explored (Scikit-learn)   | my own work|
