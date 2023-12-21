@@ -14,7 +14,7 @@ Recently I spent a few weeks as an intern in industry. My assignment was on appl
 - [CV][CV]
 
 [linkedin]: https://www.linkedin.com/in/dorota-bjoorn/
-[CV]: assets/CV_one_pager.pdf
+[CV]: assets/CV_Dorota_Bjoorn.pdf
 
 <br/><br/>
 
@@ -24,10 +24,12 @@ Recently I spent a few weeks as an intern in industry. My assignment was on appl
 
 | Repo                              | Description                                      | Note    |
 | ------------------------------    | ----------------------------------               |---------------------|
-| [Deep machine learning][dml]      |deep machine learning                             | repo to be created December 2023
+| [Deep ML - project][dml_proj]      |to be decided | to be created January 2024|
+| [Deep ML - RNN lab][dml_lab2]      |building RNN for text analysis, transfer learning (TensorFlow, Scikit-learn)|to be created January 2024|
+| [Deep ML - CNN lab][dml_lab1]      |building CNN for image classification, tranfer learning, hyperparemeter tuning (TensorFlow, Scikit-learn)                            | my own work
 | [Paliscope - proj2][LIA2]      |active learning of ML models on blog posts                          | short explorative task during internship
 | [Paliscope - proj1][LIA1]      |unsupervised text clustering and labeling (NLP, BERT, UMAP, HDBSCAN, TF-IDF)                           | short explorative task during internship
-| [Data engineering - proj][de]            |data egnineering                                  | group effort, my contribution cicd, docker, airflow, backend in collaboration|
+| [Data engineering - proj][de]            |ELT, LLM, docker, airflow, dashboard                                | group effort, my contribution ci/cd, docker, airflow, backend logic in collaboration|
 | [Databases - labs][db]                   | SQL queries, build database                      | my own work|
 | [Machine learning - lab][ml]      |machine learning models explored (Scikit-learn)   | my own work|
 | [Data analysis - lab][da_lab]     | data analysis (Pandas, Seaborn, Plotly)  | my own work
@@ -36,7 +38,9 @@ Recently I spent a few weeks as an intern in industry. My assignment was on appl
 | [Python - labs][python-labs]      |ML algorithm, OOP (NumPy, Matplotlib) | my own work|
 |                                   |                                                   |
 
-[dml]: https:
+[dml_proj]: https:
+[dml_lab2]: https:
+[dml_lab1]: https://github.com/DorotaBjoorn/Deep-Machine-Learning-Dorota-Bjoorn/tree/main/lab_CNN
 [LIA2]: https://github.com/DorotaBjoorn/Active-Learning-LIA-project
 [LIA1]: https://github.com/DorotaBjoorn/Text-Classification-LIA-project
 [de]: https://github.com/DorotaBjoorn/Data-Engineering-Project
