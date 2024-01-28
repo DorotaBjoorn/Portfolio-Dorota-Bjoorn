@@ -24,9 +24,9 @@ Recently I spent a few weeks as an intern in industry. My assignment was on appl
 
 | Repo                              | Description                                      | Note    |
 | ------------------------------    | ----------------------------------               |---------------------|
-| [Deep ML - project][dml_proj]      |to be decided | to be created January 2024|
-| [Deep ML - RNN lab][dml_lab2]      |building RNN for text analysis, transfer learning (TensorFlow, Scikit-learn)|to be created January 2024|
-| [Deep ML - CNN lab][dml_lab1]      |building CNN for image classification, tranfer learning, hyperparemeter tuning (TensorFlow, Scikit-learn)                            | my own work
+| [Deep ML - project][dml_proj]      |building GRU model and hyperparameter tuning for text classification (Tensorflow, Scikit-learn ) | my own work|
+| [Deep ML - RNN lab][dml_lab2]      |(a) building RNN/GRU/LSTM for text classification (TensorFlow, Scikit-learn), (b) additional work on transfer learning (Huggingface/transformers, KerasNLP)|my own work|
+| [Deep ML - CNN lab][dml_lab1]      |(a) building CNN for image classification,  (b) tranfer learning and hyperparemeter tuning (TensorFlow, Scikit-learn)                            | my own work
 | [Paliscope - proj2][LIA2]      |active learning of ML models on blog posts                          | short explorative task during internship
 | [Paliscope - proj1][LIA1]      |unsupervised text clustering and labeling (NLP, BERT, UMAP, HDBSCAN, TF-IDF)                           | short explorative task during internship
 | [Data engineering - proj][de]            |ELT, LLM, docker, airflow, dashboard                                | group effort, my contribution ci/cd, docker, airflow, backend logic in collaboration|
@@ -38,8 +38,8 @@ Recently I spent a few weeks as an intern in industry. My assignment was on appl
 | [Python - labs][python-labs]      |ML algorithm, OOP (NumPy, Matplotlib) | my own work|
 |                                   |                                                   |
 
-[dml_proj]: https:
-[dml_lab2]: https:
+[dml_proj]: https://github.com/DorotaBjoorn/Deep-Machine-Learning-Dorota-Bjoorn/tree/main/project
+[dml_lab2]: https://github.com/DorotaBjoorn/Deep-Machine-Learning-Dorota-Bjoorn/tree/main/lab_RNN
 [dml_lab1]: https://github.com/DorotaBjoorn/Deep-Machine-Learning-Dorota-Bjoorn/tree/main/lab_CNN
 [LIA2]: https://github.com/DorotaBjoorn/Active-Learning-LIA-project
 [LIA1]: https://github.com/DorotaBjoorn/Text-Classification-LIA-project
